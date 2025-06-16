@@ -52,17 +52,20 @@ This exploratory project analyzes over 1,000 smartphones listed on Amazon to ans
 
 ## 📁 Project Structure
 
+```
 smartphone-pricing-analysis/
-├── 📁 charts/ # All analysis visuals
-│ ├── specs_vs_price.png
-│ ├── regression_comparison.png
-│ ├── value_score_ranking.png
-│ └── high_rating_brands.png
+├── 📁 `charts/` — Graphs for analysis  
+│   ├── specs_vs_price.png
+│   ├── regression_comparison.png
+│   ├── value_score_ranking.png
+│   └── high_rating_brands.png
 │
-├── 📁 data/ # Cleaned dataset (zipped)
-│ └── amazon_cellphone_cleaned.zip
+├── 📁 `data/` — Processed CSV / zipped dataset
+│   └── amazon_cellphone_cleaned.zip
 │
-├── 📁 presentation/ # Final PPT or PDF report
-│ └── smartphone_pricing_ppt.pdf
+├── 📁 `presentation/` — PDF or PPT project summary
+│   └── smartphone_pricing_ppt.pdf
 │
-├── 📄 README.md # Project summary
+├── 📄 `README.md` — Overview of this project
+```
+
