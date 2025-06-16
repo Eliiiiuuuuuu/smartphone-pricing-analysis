@@ -1,6 +1,7 @@
 # 📱 Smartphone Pricing Analysis
 
-This project investigates what drives smartphone pricing on Amazon — is it technical specifications (like RAM and storage) or brand influence?
+This exploratory project analyzes over 1,000 smartphones listed on Amazon to answer a key question:
+**What drives smartphone pricing more — technical specifications or brand power?**
 
 ---
 
@@ -38,7 +39,7 @@ This project investigates what drives smartphone pricing on Amazon — is it tec
 ---
 
 ## 🖼️ Key Visuals
-
+👉 Click on the images to view full-size charts.
 <img src="charts/amazon_data_snapshot.png.png" width="400"/>  
 <img src="charts/specs_vs_price.png.png" width="400"/>  
 <img src="charts/regression_without_brand.png.png" width="400"/>
@@ -51,3 +52,17 @@ This project investigates what drives smartphone pricing on Amazon — is it tec
 
 ## 📁 Project Structure
 
+smartphone-pricing-analysis/
+├── 📁 charts/ # All analysis visuals
+│ ├── specs_vs_price.png
+│ ├── regression_comparison.png
+│ ├── value_score_ranking.png
+│ └── high_rating_brands.png
+│
+├── 📁 data/ # Cleaned dataset (zipped)
+│ └── amazon_cellphone_cleaned.zip
+│
+├── 📁 presentation/ # Final PPT or PDF report
+│ └── smartphone_pricing_ppt.pdf
+│
+├── 📄 README.md # Project summary
