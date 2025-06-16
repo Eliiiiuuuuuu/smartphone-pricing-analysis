@@ -43,7 +43,7 @@ This project investigates what drives smartphone pricing on Amazon — is it tec
 <img src="charts/high_rating_brands.png.png" width="400"/>  
 <img src="charts/regression_comparison_withbrand.png.png" width="400"/>
 <img src="charts/regression_without_brand.png.png" width="400"/>
-<img src="specs_vs_price.png.png" width="400"/>
+<img src="charts/specs_vs_price.png.png" width="400"/>
 <img src="charts/value_score_ranking.png (2).png" width="400"/>
 img src="charts/value_score_ranking.png.png" width="400"/>
 
